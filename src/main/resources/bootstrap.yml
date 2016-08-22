@@ -3,5 +3,5 @@ spring:
     name: zuulserver
   cloud:
      config:
-       uri: http://configserver.zhonganonline.com:8888
+       uri: http://configserver.xxx.com:8888
        label: master
